@@ -1,1 +1,2 @@
-# pnp_thesaurusMagistriNaumburgensis
+# PNP: Thesaurus Magistri Naumburgensis
+
